@@ -6,11 +6,6 @@ source_url: "https://www.youtube.com/watch?v=z4RNQk77Qro"
 ia_assisted: true
 ---
 
-Perfecto 🙂
-Te lo convierto ahora en **un único artículo fluido**, tipo post largo, sin formato de entrevista y sin perder ninguna idea importante del episodio.
-
----
-
 # La compasión como forma de vida: lo que Bryan Stevenson nos enseña sobre justicia, esperanza y humanidad
 
 Hay momentos que cambian una vida para siempre. Bryan Stevenson recuerda uno con absoluta claridad: estaba en una prisión, observando cómo unos guardias empujaban con brutalidad a un hombre condenado a muerte. Lo habían esposado, encadenado y arrastrado hacia la puerta. De pronto, el hombre se detuvo, cerró los ojos, echó la cabeza hacia atrás… y empezó a cantar un himno sobre alcanzar un “terreno más alto”.
