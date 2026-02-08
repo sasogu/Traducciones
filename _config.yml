@@ -1,0 +1,42 @@
+# Configuración Jekyll para GitHub Pages
+# Si esto es un repo de proyecto (https://usuario.github.io/REPO), deja baseurl como "/REPO".
+# Si es un repo de usuario/organización (https://usuario.github.io), pon baseurl: "".
+
+title: "Traducciones"
+description: "Traducciones y notas de lectura (con apoyo de IA) sobre cosas interesantes que encuentro por internet."
+url: ""            # p.ej. https://sasogu.github.io
+baseurl: "/Traducciones"
+
+lang: es
+timezone: Europe/Madrid
+
+theme: minima
+
+permalink: /:categories/:year/:month/:day/:title/
+
+minima:
+  skin: classic
+  social_links: []
+
+plugins:
+  - jekyll-feed
+
+# Muestra estas páginas en el header (minima)
+header_pages:
+  - about.md
+
+# Defaults para no repetir front matter
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      categories: ["traducciones"]
+
+# Markdown
+author:
+  name: ""
+markdown: kramdown
+kramdown:
+  input: GFM
